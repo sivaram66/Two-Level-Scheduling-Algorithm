@@ -22,12 +22,3 @@ Two key considerations in this scheduling program are:
 2. Define processes with their priority and burst times in the code.
 3. The program will simulate the scheduling of processes based on the two-level queue system.
 4. It will display the Gantt chart showing the order of process execution.
-
-## Example
-
-For an example of how to use this scheduling program, refer to the provided code.
-
-```c
-// Define processes and their properties here.
-
-// Compile and run the program.
